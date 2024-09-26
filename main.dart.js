@@ -51181,7 +51181,7 @@ var $async$$0=A.A(function(a,b){if(a===1)return A.B(b,r)
 while(true)switch(s){case 0:if($.a0==null)A.Uy()
 $.a0.toString
 s=2
-return A.y($.aF2().Dc(0,".env"),$async$$0)
+return A.y($.aF2().Dc(0,"env"),$async$$0)
 case 2:q=$.aF2().ga_k().h(0,"SUPABASE_URL")
 if(q==null)q=""
 p=$.aF2().ga_k().h(0,"SUPABASE_KEY")
